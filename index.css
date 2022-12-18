@@ -10,6 +10,7 @@ body {
     background-color: rgba(31, 41, 55, 1);
     overflow: hidden;
     padding: 6px 60px;
+    font-family: sans-serif;
 }
 
 .container{
@@ -44,7 +45,7 @@ p {
 }
 
 #pass-gen {
-    width: 240px;
+    width: 250px;
     height: 56px;
     background-color: #10B981;
     padding: 9px 17px 9px 15px;
